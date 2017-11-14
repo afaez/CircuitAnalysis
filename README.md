@@ -1,2 +1,2 @@
 # CircuitAnalysis
-Implementation algorithms to analyse basic analog circuits.
+Implementatin of algorithms to analyse basic analog circuits.
